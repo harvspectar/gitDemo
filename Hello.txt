@@ -1,2 +1,6 @@
 Hello World
+<<<<<<< HEAD
 Hi There
+=======
+Hi All
+>>>>>>> 32f8adb... Test20
